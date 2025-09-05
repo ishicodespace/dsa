@@ -1,0 +1,914 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "MonotonicAL",
+      "request": "launch",
+      "mainClass": "MonotonicAL",
+      "projectName": "dsa_c7491242"
+    },
+    {
+      "type": "java",
+      "name": "practise",
+      "request": "launch",
+      "mainClass": "practise",
+      "projectName": "dsa_c7491242"
+    },
+    {
+      "type": "java",
+      "name": "Introduction",
+      "request": "launch",
+      "mainClass": "wrapperClasses.Introduction",
+      "projectName": "dsa_c7491242"
+    },
+    {
+      "type": "java",
+      "name": "PairSum2",
+      "request": "launch",
+      "mainClass": "PairSum2",
+      "projectName": "dsa_c7491242"
+    },
+    {
+      "type": "java",
+      "name": "PairSum1",
+      "request": "launch",
+      "mainClass": "PairSum1",
+      "projectName": "dsa_c7491242"
+    },
+    {
+      "type": "java",
+      "name": "ContainerWithMostWater",
+      "request": "launch",
+      "mainClass": "ContainerWithMostWater",
+      "projectName": "dsa_c7491242"
+    },
+    {
+      "type": "java",
+      "name": "MultiDimAL",
+      "request": "launch",
+      "mainClass": "MultiDimAL",
+      "projectName": "dsa_c7491242"
+    },
+    {
+      "type": "java",
+      "name": "SortAL",
+      "request": "launch",
+      "mainClass": "SortAL",
+      "projectName": "dsa_c7491242"
+    },
+    {
+      "type": "java",
+      "name": "Swap2Nos",
+      "request": "launch",
+      "mainClass": "Swap2Nos",
+      "projectName": "dsa_c7491242"
+    },
+    {
+      "type": "java",
+      "name": "MaxElement",
+      "request": "launch",
+      "mainClass": "MaxElement",
+      "projectName": "dsa_c7491242"
+    },
+    {
+      "type": "java",
+      "name": "ArrayListOperations",
+      "request": "launch",
+      "mainClass": "ArrayListOperations",
+      "projectName": "dsa_c7491242"
+    },
+    {
+      "type": "java",
+      "name": "extra5",
+      "request": "launch",
+      "mainClass": "extra5",
+      "projectName": "dsa_c7491242"
+    },
+    {
+      "type": "java",
+      "name": "StringSubsets",
+      "request": "launch",
+      "mainClass": "backtracking.StringSubsets",
+      "projectName": "dsa_c7491242"
+    },
+    {
+      "type": "java",
+      "name": "ChangeArray",
+      "request": "launch",
+      "mainClass": "backtracking.ChangeArray",
+      "projectName": "dsa_c7491242"
+    },
+    {
+      "type": "java",
+      "name": "SearchInRoated",
+      "request": "launch",
+      "mainClass": "searching.binarySearch.SearchInRoated",
+      "projectName": "dsa_c7491242"
+    },
+    {
+      "type": "java",
+      "name": "MergeSort",
+      "request": "launch",
+      "mainClass": "sorting.MergeSort",
+      "projectName": "dsa_c7491242"
+    },
+    {
+      "type": "java",
+      "name": "BinaryStrings",
+      "request": "launch",
+      "mainClass": "recursion.Strings.BinaryStrings",
+      "projectName": "dsa_c7491242"
+    },
+    {
+      "type": "java",
+      "name": "RemoveDuplicates",
+      "request": "launch",
+      "mainClass": "recursion.Strings.RemoveDuplicates",
+      "projectName": "dsa_c7491242"
+    },
+    {
+      "type": "java",
+      "name": "TilingProblem",
+      "request": "launch",
+      "mainClass": "recursion.TilingProblem",
+      "projectName": "dsa_c7491242"
+    },
+    {
+      "type": "java",
+      "name": "FirstOccurence",
+      "request": "launch",
+      "mainClass": "recursion.Arrays.FirstOccurence",
+      "projectName": "dsa_c7491242"
+    },
+    {
+      "type": "java",
+      "name": "LastOccurence",
+      "request": "launch",
+      "mainClass": "recursion.Arrays.LastOccurence",
+      "projectName": "dsa_c7491242"
+    },
+    {
+      "type": "java",
+      "name": "CheckIfArraySorted",
+      "request": "launch",
+      "mainClass": "recursion.Arrays.CheckIfArraySorted",
+      "projectName": "dsa_c7491242"
+    },
+    {
+      "type": "java",
+      "name": "ReverseAL",
+      "request": "launch",
+      "mainClass": "ReverseAL",
+      "projectName": "dsa_c7491242"
+    },
+    {
+      "type": "java",
+      "name": "intro",
+      "request": "launch",
+      "mainClass": "intro",
+      "projectName": "dsa_c7491242"
+    },
+    {
+      "type": "java",
+      "name": "DecreasingNumber",
+      "request": "launch",
+      "mainClass": "recursion.DecreasingNumber",
+      "projectName": "dsa_c7491242"
+    },
+    {
+      "type": "java",
+      "name": "Palindrome",
+      "request": "launch",
+      "mainClass": "recursion.Strings.Palindrome",
+      "projectName": "dsa_c7491242"
+    },
+    {
+      "type": "java",
+      "name": "ReverseString",
+      "request": "launch",
+      "mainClass": "recursion.Strings.ReverseString",
+      "projectName": "dsa_c7491242"
+    },
+    {
+      "type": "java",
+      "name": "RemoveAllOccurences",
+      "request": "launch",
+      "mainClass": "recursion.Strings.RemoveAllOccurences",
+      "projectName": "dsa_c7491242"
+    },
+    {
+      "type": "java",
+      "name": "EuclidsAlgo",
+      "request": "launch",
+      "mainClass": "Recursion.EuclidsAlgo",
+      "projectName": "dsa_c7491242"
+    },
+    {
+      "type": "java",
+      "name": "RemoveAllOccurences",
+      "request": "launch",
+      "mainClass": "Recursion.Strings.RemoveAllOccurences",
+      "projectName": "dsa_c7491242"
+    },
+    {
+      "type": "java",
+      "name": "LinearSearch",
+      "request": "launch",
+      "mainClass": "Recursion.Arrays.LinearSearch",
+      "projectName": "dsa_c7491242"
+    },
+    {
+      "type": "java",
+      "name": "SumOfArray",
+      "request": "launch",
+      "mainClass": "Recursion.Arrays.SumOfArray",
+      "projectName": "dsa_c7491242"
+    },
+    {
+      "type": "java",
+      "name": "MaxInArray",
+      "request": "launch",
+      "mainClass": "Recursion.Arrays.MaxInArray",
+      "projectName": "dsa_c7491242"
+    },
+    {
+      "type": "java",
+      "name": "PrintArray",
+      "request": "launch",
+      "mainClass": "Recursion.PrintArray",
+      "projectName": "dsa_c7491242"
+    },
+    {
+      "type": "java",
+      "name": "Multiplication",
+      "request": "launch",
+      "mainClass": "Recursion.Multiplication",
+      "projectName": "dsa_c7491242"
+    },
+    {
+      "type": "java",
+      "name": "CountOfDigits",
+      "request": "launch",
+      "mainClass": "Recursion.CountOfDigits",
+      "projectName": "dsa_c7491242"
+    },
+    {
+      "type": "java",
+      "name": "AlternateSum",
+      "request": "launch",
+      "mainClass": "Recursion.AlternateSum",
+      "projectName": "dsa_c7491242"
+    },
+    {
+      "type": "java",
+      "name": "kMultiples",
+      "request": "launch",
+      "mainClass": "Recursion.kMultiples",
+      "projectName": "dsa_c7491242"
+    },
+    {
+      "type": "java",
+      "name": "PToThePowerQ",
+      "request": "launch",
+      "mainClass": "Recursion.PToThePowerQ",
+      "projectName": "dsa_c7491242"
+    },
+    {
+      "type": "java",
+      "name": "SumOfDigits",
+      "request": "launch",
+      "mainClass": "Recursion.SumOfDigits",
+      "projectName": "dsa_c7491242"
+    },
+    {
+      "type": "java",
+      "name": "NthFib",
+      "request": "launch",
+      "mainClass": "Recursion.NthFib",
+      "projectName": "dsa_c7491242"
+    },
+    {
+      "type": "java",
+      "name": "practise",
+      "request": "launch",
+      "mainClass": "Recursion.practise",
+      "projectName": "dsa_c7491242"
+    },
+    {
+      "type": "java",
+      "name": "extra4",
+      "request": "launch",
+      "mainClass": "extra.extra4",
+      "projectName": "dsa_c7491242"
+    },
+    {
+      "type": "java",
+      "name": "FirstOccurence",
+      "request": "launch",
+      "mainClass": "Recursion.FirstOccurence",
+      "projectName": "dsa_c7491242"
+    },
+    {
+      "type": "java",
+      "name": "extra2",
+      "request": "launch",
+      "mainClass": "extra.extra2",
+      "projectName": "dsa_c7491242"
+    },
+    {
+      "type": "java",
+      "name": "SumOfN",
+      "request": "launch",
+      "mainClass": "Recursion.SumOfN",
+      "projectName": "dsa_c7491242"
+    },
+    {
+      "type": "java",
+      "name": "IncreasingNumber",
+      "request": "launch",
+      "mainClass": "Recursion.IncreasingNumber",
+      "projectName": "dsa_c7491242"
+    },
+    {
+      "type": "java",
+      "name": "DecreasingNumber",
+      "request": "launch",
+      "mainClass": "Recursion.DecreasingNumber",
+      "projectName": "dsa_c7491242"
+    },
+    {
+      "type": "java",
+      "name": "DecreasingNumber",
+      "request": "launch",
+      "mainClass": "DecreasingNumber",
+      "projectName": "dsa_c7491242"
+    },
+    {
+      "type": "java",
+      "name": "Polymorphism",
+      "request": "launch",
+      "mainClass": "oops.Polymorphism",
+      "projectName": "dsa_c7491242"
+    },
+    {
+      "type": "java",
+      "name": "Inherit",
+      "request": "launch",
+      "mainClass": "oops.Inherit",
+      "projectName": "dsa_c7491242"
+    },
+    {
+      "type": "java",
+      "name": "Inheritance",
+      "request": "launch",
+      "mainClass": "oops.Inheritance",
+      "projectName": "dsa_c7491242"
+    },
+    {
+      "type": "java",
+      "name": "Interfaces",
+      "request": "launch",
+      "mainClass": "oops.Interfaces",
+      "projectName": "dsa_c7491242"
+    },
+    {
+      "type": "java",
+      "name": "AbstractClass",
+      "request": "launch",
+      "mainClass": "oops.AbstractClass",
+      "projectName": "dsa_c7491242"
+    },
+    {
+      "type": "java",
+      "name": "Constructors",
+      "request": "launch",
+      "mainClass": "oops.Constructors",
+      "projectName": "dsa_c7491242"
+    },
+    {
+      "type": "java",
+      "name": "GetterAndSetter",
+      "request": "launch",
+      "mainClass": "oops.GetterAndSetter",
+      "projectName": "dsa_c7491242"
+    },
+    {
+      "type": "java",
+      "name": "AccessSpecifier",
+      "request": "launch",
+      "mainClass": "oops.AccessSpecifier",
+      "projectName": "dsa_c7491242"
+    },
+    {
+      "type": "java",
+      "name": "ClassAndObject",
+      "request": "launch",
+      "mainClass": "oops.ClassAndObject",
+      "projectName": "dsa_c7491242"
+    },
+    {
+      "type": "java",
+      "name": "CountSetBits",
+      "request": "launch",
+      "mainClass": "CountSetBits",
+      "projectName": "dsa_c7491242"
+    },
+    {
+      "type": "java",
+      "name": "extra3",
+      "request": "launch",
+      "mainClass": "extra.extra3",
+      "projectName": "dsa_c7491242"
+    },
+    {
+      "type": "java",
+      "name": "extra3",
+      "request": "launch",
+      "mainClass": "extra.extra3",
+      "projectName": "practise_3583509b"
+    },
+    {
+      "type": "java",
+      "name": "Anagram",
+      "request": "launch",
+      "mainClass": "strings.Anagram",
+      "projectName": "practise_3583509b"
+    },
+    {
+      "type": "java",
+      "name": "Questions",
+      "request": "launch",
+      "mainClass": "doubleDimArrays.Questions",
+      "projectName": "practise_3583509b"
+    },
+    {
+      "type": "java",
+      "name": "TransposeInPlace",
+      "request": "launch",
+      "mainClass": "doubleDimArrays.TransposeInPlace",
+      "projectName": "practise_3583509b"
+    },
+    {
+      "type": "java",
+      "name": "SpiralMatrixAntiClockwise",
+      "request": "launch",
+      "mainClass": "doubleDimArrays.SpiralMatrixAntiClockwise",
+      "projectName": "practise_3583509b"
+    },
+    {
+      "type": "java",
+      "name": "SelectionSort",
+      "request": "launch",
+      "mainClass": "sorting.SelectionSort",
+      "projectName": "practise_3583509b"
+    },
+    {
+      "type": "java",
+      "name": "JaggedArray",
+      "request": "launch",
+      "mainClass": "doubleDimArrays.JaggedArray",
+      "projectName": "practise_3583509b"
+    },
+    {
+      "type": "java",
+      "name": "extra2",
+      "request": "launch",
+      "mainClass": "extra.extra2",
+      "projectName": "practise_3583509b"
+    },
+    {
+      "type": "java",
+      "name": "BestTimeToBuyAndSellStocks",
+      "request": "launch",
+      "mainClass": "arrays.BestTimeToBuyAndSellStocks",
+      "projectName": "practise_3583509b"
+    },
+    {
+      "type": "java",
+      "name": "TrappingRainwater",
+      "request": "launch",
+      "mainClass": "arrays.TrappingRainwater",
+      "projectName": "practise_3583509b"
+    },
+    {
+      "type": "java",
+      "name": "butterfly",
+      "request": "launch",
+      "mainClass": "patterns.butterfly",
+      "projectName": "practise_3583509b"
+    },
+    {
+      "type": "java",
+      "name": "prime",
+      "request": "launch",
+      "mainClass": "functions.prime",
+      "projectName": "practise_3583509b"
+    },
+    {
+      "type": "java",
+      "name": "swap",
+      "request": "launch",
+      "mainClass": "functions.swap",
+      "projectName": "practise_3583509b"
+    },
+    {
+      "type": "java",
+      "name": "extra1",
+      "request": "launch",
+      "mainClass": "extra.extra1",
+      "projectName": "practise_3583509b"
+    },
+    {
+      "type": "java",
+      "name": "armstrong",
+      "request": "launch",
+      "mainClass": "armstrong",
+      "projectName": "practise_3583509b"
+    },
+    {
+      "type": "java",
+      "name": "prime",
+      "request": "launch",
+      "mainClass": "prime",
+      "projectName": "practise_3583509b"
+    },
+    {
+      "type": "java",
+      "name": "basicsOfBitManipulation",
+      "request": "launch",
+      "mainClass": "basicsOfBitManipulation",
+      "projectName": "practise_3583509b"
+    },
+    {
+      "type": "java",
+      "name": "odd_even",
+      "request": "launch",
+      "mainClass": "odd_even",
+      "projectName": "practise_3583509b"
+    },
+    {
+      "type": "java",
+      "name": "continue_keyword",
+      "request": "launch",
+      "mainClass": "continue_keyword",
+      "projectName": "practise_3583509b"
+    },
+    {
+      "type": "java",
+      "name": "reversenum",
+      "request": "launch",
+      "mainClass": "reversenum",
+      "projectName": "practise_3583509b"
+    },
+    {
+      "type": "java",
+      "name": "reverse",
+      "request": "launch",
+      "mainClass": "reverse",
+      "projectName": "practise_3583509b"
+    },
+    {
+      "type": "java",
+      "name": "practise",
+      "request": "launch",
+      "mainClass": "practise.practise",
+      "projectName": "practise_3583509b"
+    },
+    {
+      "type": "java",
+      "name": "basicsOfBitManipulation",
+      "request": "launch",
+      "mainClass": "bits.basicsOfBitManipulation",
+      "projectName": "practise_3583509b"
+    },
+    {
+      "type": "java",
+      "name": "basics",
+      "request": "launch",
+      "mainClass": "basics",
+      "projectName": "practise_3583509b"
+    },
+    {
+      "type": "java",
+      "name": "compressedString",
+      "request": "launch",
+      "mainClass": "strings.compressedString",
+      "projectName": "practise_3583509b"
+    },
+    {
+      "type": "java",
+      "name": "countVowels",
+      "request": "launch",
+      "mainClass": "strings.countVowels",
+      "projectName": "practise_3583509b"
+    },
+    {
+      "type": "java",
+      "name": "demo",
+      "request": "launch",
+      "mainClass": "strings.demo",
+      "projectName": "practise_3583509b"
+    },
+    {
+      "type": "java",
+      "name": "largestString",
+      "request": "launch",
+      "mainClass": "strings.largestString",
+      "projectName": "practise_3583509b"
+    },
+    {
+      "type": "java",
+      "name": "shortestPath",
+      "request": "launch",
+      "mainClass": "strings.shortestPath",
+      "projectName": "practise_3583509b"
+    },
+    {
+      "type": "java",
+      "name": "palindrome",
+      "request": "launch",
+      "mainClass": "strings.palindrome",
+      "projectName": "practise_3583509b"
+    },
+    {
+      "type": "java",
+      "name": "test",
+      "request": "launch",
+      "mainClass": "strings.test",
+      "projectName": "practise_3583509b"
+    },
+    {
+      "type": "java",
+      "name": "searrchInSortedArray",
+      "request": "launch",
+      "mainClass": "doubleDimArrays.searrchInSortedArray",
+      "projectName": "practise_3583509b"
+    },
+    {
+      "type": "java",
+      "name": "spiralMatrix",
+      "request": "launch",
+      "mainClass": "doubleDimArrays.spiralMatrix",
+      "projectName": "practise_3583509b"
+    },
+    {
+      "type": "java",
+      "name": "diagonalSum",
+      "request": "launch",
+      "mainClass": "doubleDimArrays.diagonalSum",
+      "projectName": "practise_3583509b"
+    },
+    {
+      "type": "java",
+      "name": "test",
+      "request": "launch",
+      "mainClass": "doubleDimArrays.test",
+      "projectName": "practise_3583509b"
+    },
+    {
+      "type": "java",
+      "name": "insertionSort",
+      "request": "launch",
+      "mainClass": "sorting.insertionSort",
+      "projectName": "practise_3583509b"
+    },
+    {
+      "type": "java",
+      "name": "countSort",
+      "request": "launch",
+      "mainClass": "sorting.countSort",
+      "projectName": "practise_3583509b"
+    },
+    {
+      "type": "java",
+      "name": "bubbleSort",
+      "request": "launch",
+      "mainClass": "sorting.bubbleSort",
+      "projectName": "practise_3583509b"
+    },
+    {
+      "type": "java",
+      "name": "lonelyNumber",
+      "request": "launch",
+      "mainClass": "arrays.lonelyNumber",
+      "projectName": "practise_3583509b"
+    },
+    {
+      "type": "java",
+      "name": "containerWithMostWater",
+      "request": "launch",
+      "mainClass": "arrays.containerWithMostWater",
+      "projectName": "practise_3583509b"
+    },
+    {
+      "type": "java",
+      "name": "bestTimeToBuyAndSellStocks",
+      "request": "launch",
+      "mainClass": "arrays.bestTimeToBuyAndSellStocks",
+      "projectName": "practise_3583509b"
+    },
+    {
+      "type": "java",
+      "name": "question1",
+      "request": "launch",
+      "mainClass": "arrays.question1",
+      "projectName": "practise_3583509b"
+    },
+    {
+      "type": "java",
+      "name": "trapping_rainwater",
+      "request": "launch",
+      "mainClass": "arrays.trapping_rainwater",
+      "projectName": "practise_3583509b"
+    },
+    {
+      "type": "java",
+      "name": "single_element_among_double",
+      "request": "launch",
+      "mainClass": "arrays.single_element_among_double",
+      "projectName": "practise_3583509b"
+    },
+    {
+      "type": "java",
+      "name": "kadanes",
+      "request": "launch",
+      "mainClass": "arrays.kadanes",
+      "projectName": "practise_3583509b"
+    },
+    {
+      "type": "java",
+      "name": "prefixSum",
+      "request": "launch",
+      "mainClass": "arrays.prefixSum",
+      "projectName": "practise_3583509b"
+    },
+    {
+      "type": "java",
+      "name": "max_subArraySum",
+      "request": "launch",
+      "mainClass": "arrays.max_subArraySum",
+      "projectName": "practise_3583509b"
+    },
+    {
+      "type": "java",
+      "name": "pairs",
+      "request": "launch",
+      "mainClass": "arrays.pairs",
+      "projectName": "practise_3583509b"
+    },
+    {
+      "type": "java",
+      "name": "reverse",
+      "request": "launch",
+      "mainClass": "arrays.reverse",
+      "projectName": "practise_3583509b"
+    },
+    {
+      "type": "java",
+      "name": "largest_no",
+      "request": "launch",
+      "mainClass": "arrays.largest_no",
+      "projectName": "practise_3583509b"
+    },
+    {
+      "type": "java",
+      "name": "linearSearch",
+      "request": "launch",
+      "mainClass": "searching.linearSearch",
+      "projectName": "practise_3583509b"
+    },
+    {
+      "type": "java",
+      "name": "binarySearch",
+      "request": "launch",
+      "mainClass": "searching.binarySearch",
+      "projectName": "practise_3583509b"
+    },
+    {
+      "type": "java",
+      "name": "printAllSubArrays",
+      "request": "launch",
+      "mainClass": "arrays.printAllSubArrays",
+      "projectName": "practise_3583509b"
+    },
+    {
+      "type": "java",
+      "name": "test",
+      "request": "launch",
+      "mainClass": "arrays.test",
+      "projectName": "practise_3583509b"
+    },
+    {
+      "type": "java",
+      "name": "functions",
+      "request": "launch",
+      "mainClass": "functions.functions",
+      "projectName": "practise_3583509b"
+    },
+    {
+      "type": "java",
+      "name": "patterns",
+      "request": "launch",
+      "mainClass": "patterns.patterns",
+      "projectName": "practise_3583509b"
+    },
+    {
+      "type": "java",
+      "name": "butterfly",
+      "request": "launch",
+      "mainClass": "butterfly",
+      "projectName": "practise_3583509b"
+    },
+    {
+      "type": "java",
+      "name": "patterns2",
+      "request": "launch",
+      "mainClass": "patterns2",
+      "projectName": "practise_3583509b"
+    },
+    {
+      "type": "java",
+      "name": "test",
+      "request": "launch",
+      "mainClass": "practise.test",
+      "projectName": "practise_3583509b"
+    },
+    {
+      "type": "java",
+      "name": "test",
+      "request": "launch",
+      "mainClass": "basics.test",
+      "projectName": "practise_3583509b"
+    },
+    {
+      "type": "java",
+      "name": "decToBin",
+      "request": "launch",
+      "mainClass": "basics.decToBin",
+      "projectName": "practise_3583509b"
+    },
+    {
+      "type": "java",
+      "name": "binToDec",
+      "request": "launch",
+      "mainClass": "basics.binToDec",
+      "projectName": "practise_3583509b"
+    },
+    {
+      "type": "java",
+      "name": "b_to_d",
+      "request": "launch",
+      "mainClass": "basics.b_to_d",
+      "projectName": "practise_3583509b"
+    },
+    {
+      "type": "java",
+      "name": "prime",
+      "request": "launch",
+      "mainClass": "basics.prime",
+      "projectName": "practise_3583509b"
+    },
+    {
+      "type": "java",
+      "name": "func_overloading",
+      "request": "launch",
+      "mainClass": "basics.func_overloading",
+      "projectName": "practise_3583509b"
+    },
+    {
+      "type": "java",
+      "name": "coeff",
+      "request": "launch",
+      "mainClass": "basics.coeff",
+      "projectName": "practise_3583509b"
+    },
+    {
+      "type": "java",
+      "name": "multiply",
+      "request": "launch",
+      "mainClass": "basics.multiply",
+      "projectName": "practise_3583509b"
+    },
+    {
+      "type": "java",
+      "name": "test",
+      "request": "launch",
+      "mainClass": "test",
+      "projectName": "practise_3583509b"
+    },
+    {
+      "type": "java",
+      "name": "patterns",
+      "request": "launch",
+      "mainClass": "patterns",
+      "projectName": "practise_3583509b"
+    },
+    {
+      "type": "java",
+      "name": "functions",
+      "request": "launch",
+      "mainClass": "basics.functions",
+      "projectName": "practise_3583509b"
+    }
+  ]
+}
