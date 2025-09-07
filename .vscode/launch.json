@@ -2,6 +2,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "LonelyAL",
+      "request": "launch",
+      "mainClass": "LonelyAL",
+      "projectName": "dsa_e9b46d27"
+    },
+    {
+      "type": "java",
+      "name": "LonelyNumbersInAL",
+      "request": "launch",
+      "mainClass": "LonelyNumbersInAL",
+      "projectName": "dsa_e9b46d27"
+    },
+    {
+      "type": "java",
       "name": "MonotonicAL",
       "request": "launch",
       "mainClass": "MonotonicAL",
