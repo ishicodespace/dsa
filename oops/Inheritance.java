@@ -6,12 +6,15 @@ class Animals {
     }
 }
 
+// all properties and methods of animals are inherited to mammals and mammals
+// can have their own properties too
 class Mammals extends Animals {
     void walk() {
         System.out.println("Mammals walk");
     }
 }
 
+// dogs class inherits properties of mammals and animals class
 class Dogs extends Mammals {
     void speak() {
         System.out.println("dog barks");
@@ -19,11 +22,11 @@ class Dogs extends Mammals {
 
 }
 
-public class Inherit {
+public class Inheritance {
     public static void main(String[] args) {
-        Dogs d = new Dogs();
-        d.print();
-        d.walk();
-        d.speak();
+        Dogs dodo = new Dogs();
+        dodo.print();
+        dodo.walk();
+        dodo.speak();
     }
 }

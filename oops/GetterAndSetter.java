@@ -1,16 +1,17 @@
 package oops;
 
 class bank {
-
+    // private data members
     private int accNum;
     private String password;
 
-    void setaccNum(int accNum) {
+    // Getter and Setter methods
+    void setAccNum(int accNum) {
         this.accNum = accNum;
     }
 
     int getAccNum() {
-        return accNum;
+        return this.accNum;
     }
 
     void setPassword(String password) {
@@ -18,16 +19,16 @@ class bank {
     }
 
     String getPassword() {
-        return password;
+        return this.password;
     }
 }
 
 public class GetterAndSetter {
     public static void main(String[] args) {
         bank obj = new bank();
-        obj.setaccNum(647757733);
+        obj.setAccNum(647757733);
         System.out.println(obj.getAccNum());
-        obj.setPassword("hello1234");
+        obj.setPassword("hello123");
         System.out.println(obj.getPassword());
     }
 }

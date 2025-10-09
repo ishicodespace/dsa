@@ -2,6 +2,125 @@
   "configurations": [
     {
       "type": "java",
+      "name": "SuperKeyword",
+      "request": "launch",
+      "mainClass": "oops.SuperKeyword",
+      "projectName": "dsa_e9b46d27"
+    },
+    {
+      "type": "java",
+      "name": "StaticKeyword",
+      "request": "launch",
+      "mainClass": "oops.StaticKeyword",
+      "projectName": "dsa_e9b46d27"
+    },
+    {
+      "type": "java",
+      "name": "MultipleInheritance",
+      "request": "launch",
+      "mainClass": "oops.MultipleInheritance",
+      "projectName": "dsa_e9b46d27"
+    },
+    {
+      "type": "java",
+      "name": "AbstractClass",
+      "request": "launch",
+      "mainClass": "oops.AbstractClass",
+      "projectName": "dsa_e9b46d27"
+    },
+    {
+      "type": "java",
+      "name": "Polymorphism",
+      "request": "launch",
+      "mainClass": "oops.Polymorphism",
+      "projectName": "dsa_e9b46d27"
+    },
+    {
+      "type": "java",
+      "name": "Inheritance",
+      "request": "launch",
+      "mainClass": "oops.Inheritance",
+      "projectName": "dsa_e9b46d27"
+    },
+    {
+      "type": "java",
+      "name": "ShallowCopy",
+      "request": "launch",
+      "mainClass": "oops.ShallowCopy",
+      "projectName": "dsa_e9b46d27"
+    },
+    {
+      "type": "java",
+      "name": "DeepCopy",
+      "request": "launch",
+      "mainClass": "oops.DeepCopy",
+      "projectName": "dsa_e9b46d27"
+    },
+    {
+      "type": "java",
+      "name": "CopyConstructor",
+      "request": "launch",
+      "mainClass": "oops.CopyConstructor",
+      "projectName": "dsa_e9b46d27"
+    },
+    {
+      "type": "java",
+      "name": "ParameterisedConstructor",
+      "request": "launch",
+      "mainClass": "oops.constructors.ParameterisedConstructor",
+      "projectName": "dsa_e9b46d27"
+    },
+    {
+      "type": "java",
+      "name": "CopyConstructor",
+      "request": "launch",
+      "mainClass": "oops.constructors.CopyConstructor",
+      "projectName": "dsa_e9b46d27"
+    },
+    {
+      "type": "java",
+      "name": "Constructors",
+      "request": "launch",
+      "mainClass": "oops.Constructors",
+      "projectName": "dsa_e9b46d27"
+    },
+    {
+      "type": "java",
+      "name": "GetterAndSetter",
+      "request": "launch",
+      "mainClass": "oops.GetterAndSetter",
+      "projectName": "dsa_e9b46d27"
+    },
+    {
+      "type": "java",
+      "name": "class1",
+      "request": "launch",
+      "mainClass": "oops.accessModifiers.class1",
+      "projectName": "dsa_e9b46d27"
+    },
+    {
+      "type": "java",
+      "name": "ClassAndObject2",
+      "request": "launch",
+      "mainClass": "oops.ClassAndObject2",
+      "projectName": "dsa_e9b46d27"
+    },
+    {
+      "type": "java",
+      "name": "ClassAndObject",
+      "request": "launch",
+      "mainClass": "oops.ClassAndObject",
+      "projectName": "dsa_e9b46d27"
+    },
+    {
+      "type": "java",
+      "name": "StudentClass",
+      "request": "launch",
+      "mainClass": "oops.StudentClass",
+      "projectName": "dsa_e9b46d27"
+    },
+    {
+      "type": "java",
       "name": "LonelyAL",
       "request": "launch",
       "mainClass": "LonelyAL",

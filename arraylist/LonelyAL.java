@@ -13,20 +13,23 @@ public class LonelyAL {
     }
 
     public static ArrayList<Integer> findLonelyNumbers(ArrayList<Integer> list) {
+        //create a map to store the frequency of each number
         HashMap<Integer, Integer> map = new HashMap<>();
+        //traverse the list and create the frequency map
         for (int i = 0; i < list.size(); i++) {
             if (map.containsKey(list.get(i)) == false)
                 map.put(list.get(i), 1);
             else
                 map.put(list.get(i), map.get(list.get(i)) + 1);
         }
-        ArrayList<Integer> lonelyNumbersList = new ArrayList<>();
 
+        //create a list to store the lonely numbers
+        ArrayList<Integer> lonelyNumbersList = new ArrayList<>();
         for (int key : map.keySet()) {
             if ((map.containsKey(key + 1) == false) &&
                     (map.containsKey(key - 1) == false) &&
                     map.get(key) == 1) {
-                list.add(key);
+                lonelyNumbersList.add(key);
             }
         }
         return lonelyNumbersList;
