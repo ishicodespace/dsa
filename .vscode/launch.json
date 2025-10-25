@@ -2,6 +2,132 @@
   "configurations": [
     {
       "type": "java",
+      "name": "DetectCycle",
+      "request": "launch",
+      "mainClass": "DetectCycle",
+      "projectName": "dsa_e9b46d27"
+    },
+    {
+      "type": "java",
+      "name": "Factorial",
+      "request": "launch",
+      "mainClass": "recursion.Factorial",
+      "projectName": "dsa_e9b46d27"
+    },
+    {
+      "type": "java",
+      "name": "Fact",
+      "request": "launch",
+      "mainClass": "recursion.Fact",
+      "projectName": "dsa_e9b46d27"
+    },
+    {
+      "type": "java",
+      "name": "LengthOfLL",
+      "request": "launch",
+      "mainClass": "LengthOfLL",
+      "projectName": "dsa_e9b46d27"
+    },
+    {
+      "type": "java",
+      "name": "InsertAtMiddle",
+      "request": "launch",
+      "mainClass": "InsertAtMiddle",
+      "projectName": "dsa_e9b46d27"
+    },
+    {
+      "type": "java",
+      "name": "DisplayLL",
+      "request": "launch",
+      "mainClass": "DisplayLL",
+      "projectName": "dsa_e9b46d27"
+    },
+    {
+      "type": "java",
+      "name": "DisplayLL",
+      "request": "launch",
+      "mainClass": "linkedList.DisplayLL",
+      "projectName": "dsa_e9b46d27"
+    },
+    {
+      "type": "java",
+      "name": "question",
+      "request": "launch",
+      "mainClass": "linkedlist.question",
+      "projectName": "dsa_e9b46d27"
+    },
+    {
+      "type": "java",
+      "name": "LinkedListMerger",
+      "request": "launch",
+      "mainClass": "linkedlist.LinkedListMerger",
+      "projectName": "dsa_e9b46d27"
+    },
+    {
+      "type": "java",
+      "name": "InsertAtEnd",
+      "request": "launch",
+      "mainClass": "linkedlist.InsertAtEnd",
+      "projectName": "dsa_e9b46d27"
+    },
+    {
+      "type": "java",
+      "name": "InsertAtFirst",
+      "request": "launch",
+      "mainClass": "linkedlist.InsertAtFirst",
+      "projectName": "dsa_e9b46d27"
+    },
+    {
+      "type": "java",
+      "name": "LengthOfLL",
+      "request": "launch",
+      "mainClass": "linkedlist.LengthOfLL",
+      "projectName": "dsa_e9b46d27"
+    },
+    {
+      "type": "java",
+      "name": "PrintLLRecursively",
+      "request": "launch",
+      "mainClass": "linkedlist.PrintLLRecursively",
+      "projectName": "dsa_e9b46d27"
+    },
+    {
+      "type": "java",
+      "name": "BasicsOfLL",
+      "request": "launch",
+      "mainClass": "linkedlist.BasicsOfLL",
+      "projectName": "dsa_e9b46d27"
+    },
+    {
+      "type": "java",
+      "name": "LLImplementation",
+      "request": "launch",
+      "mainClass": "linkedlist.LLImplementation",
+      "projectName": "dsa_e9b46d27"
+    },
+    {
+      "type": "java",
+      "name": "demo",
+      "request": "launch",
+      "mainClass": "linkedlist.demo",
+      "projectName": "dsa_e9b46d27"
+    },
+    {
+      "type": "java",
+      "name": "BasicStructure",
+      "request": "launch",
+      "mainClass": "linkedlist.BasicStructure",
+      "projectName": "dsa_e9b46d27"
+    },
+    {
+      "type": "java",
+      "name": "BasicStructure",
+      "request": "launch",
+      "mainClass": "BasicStructure",
+      "projectName": "dsa_e9b46d27"
+    },
+    {
+      "type": "java",
       "name": "SuperKeyword",
       "request": "launch",
       "mainClass": "oops.SuperKeyword",
