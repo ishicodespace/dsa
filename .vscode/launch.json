@@ -2,6 +2,83 @@
   "configurations": [
     {
       "type": "java",
+      "name": "ValidParenthese",
+      "request": "launch",
+      "mainClass": "stack.ValidParenthese",
+      "projectName": "dsa_e9b46d27"
+    },
+    {
+      "type": "java",
+      "name": "NextGreaterElement",
+      "request": "launch",
+      "mainClass": "stack.NextGreaterElement",
+      "projectName": "dsa_e9b46d27"
+    },
+    {
+      "type": "java",
+      "name": "ReverseStack",
+      "request": "launch",
+      "mainClass": "stack.ReverseStack",
+      "projectName": "dsa_e9b46d27"
+    },
+    {
+      "type": "java",
+      "name": "ReverseString",
+      "request": "launch",
+      "mainClass": "stack.ReverseString",
+      "projectName": "dsa_e9b46d27"
+    },
+    {
+      "type": "java",
+      "name": "PushAtBottomOfStack",
+      "request": "launch",
+      "mainClass": "stack.PushAtBottomOfStack",
+      "projectName": "dsa_e9b46d27"
+    },
+    {
+      "type": "java",
+      "name": "ReverseStack",
+      "request": "launch",
+      "mainClass": "stacks.ReverseStack",
+      "projectName": "dsa_e9b46d27"
+    },
+    {
+      "type": "java",
+      "name": "ReverseString",
+      "request": "launch",
+      "mainClass": "stacks.ReverseString",
+      "projectName": "dsa_e9b46d27"
+    },
+    {
+      "type": "java",
+      "name": "PushAtBottomOfStack",
+      "request": "launch",
+      "mainClass": "stacks.PushAtBottomOfStack",
+      "projectName": "dsa_e9b46d27"
+    },
+    {
+      "type": "java",
+      "name": "StackImplementationLL",
+      "request": "launch",
+      "mainClass": "stacks.StackImplementationLL",
+      "projectName": "dsa_e9b46d27"
+    },
+    {
+      "type": "java",
+      "name": "StackImplementationAL",
+      "request": "launch",
+      "mainClass": "stacks.StackImplementationAL",
+      "projectName": "dsa_e9b46d27"
+    },
+    {
+      "type": "java",
+      "name": "StackImplementation",
+      "request": "launch",
+      "mainClass": "stacks.StackImplementation",
+      "projectName": "dsa_e9b46d27"
+    },
+    {
+      "type": "java",
       "name": "DetectCycle",
       "request": "launch",
       "mainClass": "DetectCycle",
