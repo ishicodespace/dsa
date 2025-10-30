@@ -2,6 +2,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "DuplicateParentheses",
+      "request": "launch",
+      "mainClass": "stack.DuplicateParentheses",
+      "projectName": "dsa_e9b46d27"
+    },
+    {
+      "type": "java",
+      "name": "ValidParentheses",
+      "request": "launch",
+      "mainClass": "stack.ValidParentheses",
+      "projectName": "dsa_e9b46d27"
+    },
+    {
+      "type": "java",
       "name": "ReverseAnInteger",
       "request": "launch",
       "mainClass": "ReverseAnInteger",
