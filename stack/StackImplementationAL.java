@@ -1,19 +1,17 @@
 package stack;
-
 import java.util.ArrayList;
-
 public class StackImplementationAL {
     // create a class Stack
      static class Stack {
-        static ArrayList<Integer> stack = new ArrayList<>();
-
-        // check if stack is empty
+         static ArrayList<Integer> stack = new ArrayList<>();
+        
+        // function to check if stack is empty
         public static boolean isEmpty() {
             // System.out.println(stack.isEmpty());
             return stack.size() == 0;
         }
 
-        // push operation
+        // function for push operation
         public static void push(int data) {
             stack.add(data);
         }
@@ -21,10 +19,10 @@ public class StackImplementationAL {
         // pop operation
         public static int pop() {
             if(isEmpty()) {
-                return -1;
+                return Integer.MIN_VALUE;
             }
             int top = stack.get(stack.size() - 1);
-            stack.remove(stack.size() - 1);
+            stack.remove(stack.size() - 1); 
             return top;
         }
 

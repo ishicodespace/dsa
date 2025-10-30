@@ -5,6 +5,7 @@ import java.util.*;
 public class NextGreaterRight {
     public static void main(String[] args) {
         int arr[] = { 6, 8, 0, 1, 3 };
+        //we will store indexes in stack not values
         Stack<Integer> stack = new Stack<>();
         int nextGreater[] = new int[arr.length];
         // traverse from right to left

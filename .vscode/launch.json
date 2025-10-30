@@ -2,6 +2,55 @@
   "configurations": [
     {
       "type": "java",
+      "name": "PalindromeLL",
+      "request": "launch",
+      "mainClass": "stack.PalindromeLL",
+      "projectName": "dsa_e9b46d27"
+    },
+    {
+      "type": "java",
+      "name": "NextGreaterRight",
+      "request": "launch",
+      "mainClass": "stack.NextGreaterRight",
+      "projectName": "dsa_e9b46d27"
+    },
+    {
+      "type": "java",
+      "name": "StockSpanProblem",
+      "request": "launch",
+      "mainClass": "stack.StockSpanProblem",
+      "projectName": "dsa_e9b46d27"
+    },
+    {
+      "type": "java",
+      "name": "StackImplementationLL",
+      "request": "launch",
+      "mainClass": "stack.StackImplementationLL",
+      "projectName": "dsa_e9b46d27"
+    },
+    {
+      "type": "java",
+      "name": "StackImplementationAL",
+      "request": "launch",
+      "mainClass": "stack.StackImplementationAL",
+      "projectName": "dsa_e9b46d27"
+    },
+    {
+      "type": "java",
+      "name": "CollectionsEx4",
+      "request": "launch",
+      "mainClass": "extra.CollectionsEx4",
+      "projectName": "dsa_e9b46d27"
+    },
+    {
+      "type": "java",
+      "name": "extra21",
+      "request": "launch",
+      "mainClass": "extra.extra21",
+      "projectName": "dsa_e9b46d27"
+    },
+    {
+      "type": "java",
       "name": "ValidParenthese",
       "request": "launch",
       "mainClass": "stack.ValidParenthese",
