@@ -1,7 +1,7 @@
-public class armstrong {
+public class ArmstrongNumber {
     static boolean isArmstrong(int n) {
         int sum = 0;
-        byte a=-130;
+        byte a=10;
         int num = n;
         while (n != 0) {
             sum += Math.pow(n % 10, 3);

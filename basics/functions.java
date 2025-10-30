@@ -2,7 +2,7 @@
 
 import java.util.*;
 
-public class functions {
+public class Functions {
 //     static int sum(int a, int b) { // paramaters or formal
 //         return a + b;
 //     }

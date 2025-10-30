@@ -2,6 +2,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "ReverseAnInteger",
+      "request": "launch",
+      "mainClass": "ReverseAnInteger",
+      "projectName": "dsa_e9b46d27"
+    },
+    {
+      "type": "java",
+      "name": "LeapYear",
+      "request": "launch",
+      "mainClass": "LeapYear",
+      "projectName": "dsa_e9b46d27"
+    },
+    {
+      "type": "java",
       "name": "PalindromeLL",
       "request": "launch",
       "mainClass": "stack.PalindromeLL",

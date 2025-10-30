@@ -1,4 +1,4 @@
-public class test {
+public class BasicFunctions {
   static double avg(int a, int b, int c) {
     return (a + b + c) / 3;
   }

@@ -2,7 +2,7 @@
 
 import java.util.Scanner;
 
-public class prime {
+public class PrimeNumber {
     static boolean check_prime(int num){
         //corner cases only for n>=2, can be omitted
         if(num==2){

@@ -1,4 +1,4 @@
-public class fibonacci {
+public class FibonacciSeries {
     public static int fib(int n){
         if (n==0)
     return 0;
