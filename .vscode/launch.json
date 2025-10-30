@@ -2,6 +2,55 @@
   "configurations": [
     {
       "type": "java",
+      "name": "QueueUsingDeque",
+      "request": "launch",
+      "mainClass": "queue.QueueUsingDeque",
+      "projectName": "dsa_e9b46d27"
+    },
+    {
+      "type": "java",
+      "name": "StackUsingDeque",
+      "request": "launch",
+      "mainClass": "queue.StackUsingDeque",
+      "projectName": "dsa_e9b46d27"
+    },
+    {
+      "type": "java",
+      "name": "MyDeque",
+      "request": "launch",
+      "mainClass": "queue.MyDeque",
+      "projectName": "dsa_e9b46d27"
+    },
+    {
+      "type": "java",
+      "name": "QueueUsingTwoStacks",
+      "request": "launch",
+      "mainClass": "queue.QueueUsingTwoStacks",
+      "projectName": "dsa_e9b46d27"
+    },
+    {
+      "type": "java",
+      "name": "QueueUsingLL",
+      "request": "launch",
+      "mainClass": "queue.QueueUsingLL",
+      "projectName": "dsa_e9b46d27"
+    },
+    {
+      "type": "java",
+      "name": "CircularQueueUsingArray",
+      "request": "launch",
+      "mainClass": "queue.CircularQueueUsingArray",
+      "projectName": "dsa_e9b46d27"
+    },
+    {
+      "type": "java",
+      "name": "QueueUsingArrays",
+      "request": "launch",
+      "mainClass": "queue.QueueUsingArrays",
+      "projectName": "dsa_e9b46d27"
+    },
+    {
+      "type": "java",
       "name": "DuplicateParentheses",
       "request": "launch",
       "mainClass": "stack.DuplicateParentheses",
