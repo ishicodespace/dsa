@@ -34,7 +34,7 @@ static Deque<Integer> deque = new LinkedList<>();
         stack.add(1);
         stack.add(2);
         stack.add(3);
-        while (!stack.deque.isEmpty()) {
+        while (!stack.isEmpty()) {
             System.out.println(stack.peek());
             stack.remove();
         }

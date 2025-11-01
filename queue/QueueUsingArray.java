@@ -25,8 +25,10 @@ public class QueueUsingArray {
                 return;
             }
             //front is always at 0th index
-            rear=rear+1; //if rear was -1 it becomes 0
+            //insert at (r+1)th index
+            rear = rear + 1; //if rear was -1 it becomes 0
             arr[rear] = data;
+         
         }
 
         //dequeue
@@ -56,7 +58,7 @@ public class QueueUsingArray {
     }
 
     public static void main(String[] args) {
-        Queue q = new Queue(5);
+        Queue q = new Queue(5); //not collection framework
         q.add(1);
         q.add(2);
         q.add(3);

@@ -2,6 +2,27 @@
   "configurations": [
     {
       "type": "java",
+      "name": "basicTest",
+      "request": "launch",
+      "mainClass": "arrays.basicTest",
+      "projectName": "dsa_e9b46d27"
+    },
+    {
+      "type": "java",
+      "name": "basicCollections",
+      "request": "launch",
+      "mainClass": "queue.basicCollections",
+      "projectName": "dsa_e9b46d27"
+    },
+    {
+      "type": "java",
+      "name": "basicCollection",
+      "request": "launch",
+      "mainClass": "queue.basicCollection",
+      "projectName": "dsa_e9b46d27"
+    },
+    {
+      "type": "java",
       "name": "QueueUsingDeque",
       "request": "launch",
       "mainClass": "queue.QueueUsingDeque",
