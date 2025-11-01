@@ -3,7 +3,7 @@ import java.util.ArrayDeque;
 import java.util.LinkedList;
 import java.util.Queue;
 
-public class basicCollections {
+public class QueueCollections {
     public static void main(String[] args) {
         Queue<Integer> queue = new ArrayDeque<>();
         queue.add(1); //not push()/pop() like stack

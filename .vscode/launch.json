@@ -2,6 +2,41 @@
   "configurations": [
     {
       "type": "java",
+      "name": "ReverseFirstK",
+      "request": "launch",
+      "mainClass": "queue.questions.ReverseFirstK",
+      "projectName": "dsa_e9b46d27"
+    },
+    {
+      "type": "java",
+      "name": "ReverseQueue",
+      "request": "launch",
+      "mainClass": "queue.questions.ReverseQueue",
+      "projectName": "dsa_e9b46d27"
+    },
+    {
+      "type": "java",
+      "name": "DequeCollections",
+      "request": "launch",
+      "mainClass": "queue.DequeCollections",
+      "projectName": "dsa_e9b46d27"
+    },
+    {
+      "type": "java",
+      "name": "DoublyEndedqueue",
+      "request": "launch",
+      "mainClass": "queue.DoublyEndedqueue",
+      "projectName": "dsa_e9b46d27"
+    },
+    {
+      "type": "java",
+      "name": "CircularQueueUsingArray2$Queue",
+      "request": "launch",
+      "mainClass": "queue.CircularQueueUsingArray2$Queue",
+      "projectName": "dsa_e9b46d27"
+    },
+    {
+      "type": "java",
       "name": "basicTest",
       "request": "launch",
       "mainClass": "arrays.basicTest",

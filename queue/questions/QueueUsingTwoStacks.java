@@ -1,4 +1,4 @@
-package queue;
+package queue.questions;
 
 import java.util.*;
 
