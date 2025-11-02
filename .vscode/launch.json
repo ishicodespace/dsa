@@ -2,6 +2,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "StackUsingTwoQueues$TwoQueueStack",
+      "request": "launch",
+      "mainClass": "queue.questions.StackUsingTwoQueues$TwoQueueStack",
+      "projectName": "dsa_e9b46d27"
+    },
+    {
+      "type": "java",
       "name": "ReverseFirstK",
       "request": "launch",
       "mainClass": "queue.questions.ReverseFirstK",
