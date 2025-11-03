@@ -11,10 +11,11 @@ public class QueueUsingLL {
         }
     }
 
-    static int size = 0;
+    
     static class Queue {
         public static Node head;
         public static Node tail;
+        static int size = 0;
 
         // check if queue is empty
         public static boolean isEmpty() {
@@ -28,8 +29,9 @@ public class QueueUsingLL {
         public static void add(int data) {
             Node newNode = new Node(data);
             size++;
-            if (isEmpty()) {
+            if (head==null) {
                 head = tail = newNode;
+                return; 
             }
             tail.next = newNode;
             tail = newNode;
@@ -42,11 +44,14 @@ public class QueueUsingLL {
                 return -1;
             }
             size--;
+            //store value of front 
             int front = head.data;
             // single node
             if (head == tail) {
                 head = tail = null;
-            } else {
+            } 
+            // multiple nodes
+            else {
                 head = head.next;
             }
             return front;
@@ -68,5 +73,6 @@ public class QueueUsingLL {
         q.add(2);
         q.add(3);
         System.out.println(q.peek()); // 1
+        System.out.println(q.size); // 3
     }
 }
