@@ -64,14 +64,12 @@ public class StackUsingTwoQueues {
             int top = -1;
 
             //case 1: if q1 is non-empty
-            //case 1: if q1 is non-empty
-        if(!q1.isEmpty())
-
-        {
-            while (!q1.isEmpty()) {
-                top = q1.remove();
-                q2.add(top);
-            }
+            if(!q1.isEmpty())
+            {
+                while (!q1.isEmpty()) {
+                    top = q1.remove();
+                    q2.add(top);
+                 }
         }
         //case 2: if q2 is non-empty
         else

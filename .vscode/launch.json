@@ -2,6 +2,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "ActivitySelection",
+      "request": "launch",
+      "mainClass": "greedyalgorithm.ActivitySelection",
+      "projectName": "dsa_e9b46d27"
+    },
+    {
+      "type": "java",
+      "name": "ActivitySelection",
+      "request": "launch",
+      "mainClass": "ActivitySelection",
+      "projectName": "dsa_e9b46d27"
+    },
+    {
+      "type": "java",
       "name": "QueueUsingTwoStacks",
       "request": "launch",
       "mainClass": "queue.questions.QueueUsingTwoStacks",
