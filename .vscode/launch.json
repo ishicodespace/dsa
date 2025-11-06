@@ -2,6 +2,27 @@
   "configurations": [
     {
       "type": "java",
+      "name": "IndianCoins",
+      "request": "launch",
+      "mainClass": "greedyAlgorithm.IndianCoins",
+      "projectName": "dsa_e9b46d27"
+    },
+    {
+      "type": "java",
+      "name": "FractionalKnapsack",
+      "request": "launch",
+      "mainClass": "greedyAlgorithm.FractionalKnapsack",
+      "projectName": "dsa_e9b46d27"
+    },
+    {
+      "type": "java",
+      "name": "ActivitySelection",
+      "request": "launch",
+      "mainClass": "greedyAlgorithm.ActivitySelection",
+      "projectName": "dsa_e9b46d27"
+    },
+    {
+      "type": "java",
       "name": "ActivitySelection",
       "request": "launch",
       "mainClass": "greedyalgorithm.ActivitySelection",
