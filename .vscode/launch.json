@@ -2,6 +2,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "AddN",
+      "request": "launch",
+      "mainClass": "recursion.AddN",
+      "projectName": "dsa_e9b46d27"
+    },
+    {
+      "type": "java",
+      "name": "add",
+      "request": "launch",
+      "mainClass": "recursion.add",
+      "projectName": "dsa_e9b46d27"
+    },
+    {
+      "type": "java",
       "name": "IndianCoins",
       "request": "launch",
       "mainClass": "greedyAlgorithm.IndianCoins",
