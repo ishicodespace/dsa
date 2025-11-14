@@ -1,4 +1,4 @@
-package recursion;
+package recursion.Basics;
 
 public class PToThePowerQ {
     public static int power(int p, int q) {

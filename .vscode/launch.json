@@ -2,6 +2,90 @@
   "configurations": [
     {
       "type": "java",
+      "name": "ProductOfDigits",
+      "request": "launch",
+      "mainClass": "recursion.Basics.ProductOfDigits",
+      "projectName": "dsa_e9b46d27"
+    },
+    {
+      "type": "java",
+      "name": "SumOfEven",
+      "request": "launch",
+      "mainClass": "recursion.Basics.SumOfEven",
+      "projectName": "dsa_e9b46d27"
+    },
+    {
+      "type": "java",
+      "name": "SumOfOdd",
+      "request": "launch",
+      "mainClass": "recursion.Basics.SumOfOdd",
+      "projectName": "dsa_e9b46d27"
+    },
+    {
+      "type": "java",
+      "name": "ReverseNumber",
+      "request": "launch",
+      "mainClass": "recursion.Basics.ReverseNumber",
+      "projectName": "dsa_e9b46d27"
+    },
+    {
+      "type": "java",
+      "name": "CountDigits",
+      "request": "launch",
+      "mainClass": "recursion.Basics.CountDigits",
+      "projectName": "dsa_e9b46d27"
+    },
+    {
+      "type": "java",
+      "name": "SumOfDigits",
+      "request": "launch",
+      "mainClass": "recursion.Basics.SumOfDigits",
+      "projectName": "dsa_e9b46d27"
+    },
+    {
+      "type": "java",
+      "name": "Factorial",
+      "request": "launch",
+      "mainClass": "recursion.Basics.Factorial",
+      "projectName": "dsa_e9b46d27"
+    },
+    {
+      "type": "java",
+      "name": "Odd1ToN",
+      "request": "launch",
+      "mainClass": "recursion.Basics.Odd1ToN",
+      "projectName": "dsa_e9b46d27"
+    },
+    {
+      "type": "java",
+      "name": "Even1ToN",
+      "request": "launch",
+      "mainClass": "recursion.Basics.Even1ToN",
+      "projectName": "dsa_e9b46d27"
+    },
+    {
+      "type": "java",
+      "name": "IncreasingNumber",
+      "request": "launch",
+      "mainClass": "recursion.Basics.IncreasingNumber",
+      "projectName": "dsa_e9b46d27"
+    },
+    {
+      "type": "java",
+      "name": "DecreasingNumber",
+      "request": "launch",
+      "mainClass": "recursion.Basics.DecreasingNumber",
+      "projectName": "dsa_e9b46d27"
+    },
+    {
+      "type": "java",
+      "name": "IncreasingNumber",
+      "request": "launch",
+      "mainClass": "recursion.IncreasingNumber",
+      "projectName": "dsa_e9b46d27"
+    },
+    {
+      "type": "java",
       "name": "AddN",
       "request": "launch",
       "mainClass": "recursion.AddN",
