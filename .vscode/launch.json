@@ -2,6 +2,27 @@
   "configurations": [
     {
       "type": "java",
+      "name": "StackExample",
+      "request": "launch",
+      "mainClass": "StackExample",
+      "projectName": "dsa_e9b46d27"
+    },
+    {
+      "type": "java",
+      "name": "Stack",
+      "request": "launch",
+      "mainClass": "Stack",
+      "projectName": "dsa_e9b46d27"
+    },
+    {
+      "type": "java",
+      "name": "ArrayListExample",
+      "request": "launch",
+      "mainClass": "ArrayListExample",
+      "projectName": "dsa_e9b46d27"
+    },
+    {
+      "type": "java",
       "name": "ProductOfDigits",
       "request": "launch",
       "mainClass": "recursion.Basics.ProductOfDigits",
