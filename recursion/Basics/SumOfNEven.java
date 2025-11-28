@@ -3,7 +3,7 @@ package recursion.Basics;
 public class SumOfNEven {
 
     public static int SumOfEven(int n) {
-
+        
         // base case
         if (n == 0) {
             return 0;
