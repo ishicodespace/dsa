@@ -1,6 +1,6 @@
 package backtracking;
 
-public class StringSubsets {
+public class SubsetsOfString {
     public static void subset(String str, String ans, int i) {
         if (i == str.length()){
             System.out.println(ans);
