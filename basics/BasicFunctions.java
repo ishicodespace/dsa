@@ -11,27 +11,27 @@ public class BasicFunctions {
   }
 
   static boolean isPalindrome(int num) {
-    int reverse=0;
-    int number=num;
+    int reverse = 0;
+    int number = num;
     while (num > 0) {
-reverse=reverse*10+(num%10);
-num=num/10;
+      reverse = reverse * 10 + (num % 10);
+      num = num / 10;
     }
-    if(reverse==number){
+    if (reverse == number) {
       return true;
     }
     return false;
   }
 
-  static int sumOfDigits(int num){
-    int sum=0;
-    while (num>0) 
-    {
-    sum=sum+(num%10);
-    num=num/10;
+  static int sumOfDigits(int num) {
+    int sum = 0;
+    while (num > 0) {
+      sum = sum + (num % 10);
+      num = num / 10;
     }
     return sum;
   }
+
   public static void main(String[] args) {
     System.out.println(avg(2, 40, 30));
     System.err.println(isEven(3));
