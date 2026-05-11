@@ -1,6 +1,5 @@
 package greedyAlgorithm;
 
-import java.lang.reflect.Array;
 import java.util.ArrayList;
 
 public class IndianCoins {
@@ -10,13 +9,14 @@ public class IndianCoins {
         int value = 590;
         ArrayList<Integer> minCoins = new ArrayList<>();
 
-        //max coin will be used first
+        // max coin will be used first
         for (int i = coins.length - 1; i >= 0; i--) {
+
             if (value == 0) {
                 break;
-
             }
-            //while loop because we can use same coin multiple times
+
+            // while loop because same coin can be used multiple times
             while (coins[i] <= value) {
                 value -= coins[i];
                 minCoins.add(coins[i]);
