@@ -2,6 +2,370 @@
   "configurations": [
     {
       "type": "java",
+      "name": "PreOrder",
+      "request": "launch",
+      "mainClass": "trees.basics.PreOrder",
+      "projectName": "dsa_e9b46d27"
+    },
+    {
+      "type": "java",
+      "name": "PreOrder",
+      "request": "launch",
+      "mainClass": "wrapperClasses.PreOrder",
+      "projectName": "dsa_e9b46d27"
+    },
+    {
+      "type": "java",
+      "name": "Implementation",
+      "request": "launch",
+      "mainClass": "trees.basics.Implementation",
+      "projectName": "dsa_e9b46d27"
+    },
+    {
+      "type": "java",
+      "name": "demo",
+      "request": "launch",
+      "mainClass": "demo",
+      "projectName": "dsa_e9b46d27"
+    },
+    {
+      "type": "java",
+      "name": "MaxLengthChainOfPairs",
+      "request": "launch",
+      "mainClass": "greedyAlgorithm.MaxLengthChainOfPairs",
+      "projectName": "dsa_e9b46d27"
+    },
+    {
+      "type": "java",
+      "name": "MinAbsDifferencePairs",
+      "request": "launch",
+      "mainClass": "greedyAlgorithm.MinAbsDifferencePairs",
+      "projectName": "dsa_e9b46d27"
+    },
+    {
+      "type": "java",
+      "name": "ActivitySelectionSort",
+      "request": "launch",
+      "mainClass": "greedyAlgorithm.ActivitySelectionSort",
+      "projectName": "dsa_e9b46d27"
+    },
+    {
+      "type": "java",
+      "name": "q8",
+      "request": "launch",
+      "mainClass": "nqt.q8",
+      "projectName": "dsa_e9b46d27"
+    },
+    {
+      "type": "java",
+      "name": "q7",
+      "request": "launch",
+      "mainClass": "nqt.q7",
+      "projectName": "dsa_e9b46d27"
+    },
+    {
+      "type": "java",
+      "name": "q5",
+      "request": "launch",
+      "mainClass": "nqt.q5",
+      "projectName": "dsa_e9b46d27"
+    },
+    {
+      "type": "java",
+      "name": "q4",
+      "request": "launch",
+      "mainClass": "nqt.q4",
+      "projectName": "dsa_e9b46d27"
+    },
+    {
+      "type": "java",
+      "name": "q3",
+      "request": "launch",
+      "mainClass": "nqt.q3",
+      "projectName": "dsa_e9b46d27"
+    },
+    {
+      "type": "java",
+      "name": "DNFAlgorithm",
+      "request": "launch",
+      "mainClass": "nqt.DNFAlgorithm",
+      "projectName": "dsa_e9b46d27"
+    },
+    {
+      "type": "java",
+      "name": "q2",
+      "request": "launch",
+      "mainClass": "nqt.q2",
+      "projectName": "dsa_e9b46d27"
+    },
+    {
+      "type": "java",
+      "name": "q1",
+      "request": "launch",
+      "mainClass": "nqt.q1",
+      "projectName": "dsa_e9b46d27"
+    },
+    {
+      "type": "java",
+      "name": "CountSort",
+      "request": "launch",
+      "mainClass": "sorting.CountSort",
+      "projectName": "dsa_e9b46d27"
+    },
+    {
+      "type": "java",
+      "name": "SortNamesLexicographically",
+      "request": "launch",
+      "mainClass": "sorting.Questions.SortNamesLexicographically",
+      "projectName": "dsa_e9b46d27"
+    },
+    {
+      "type": "java",
+      "name": "MoveZerosToEnd",
+      "request": "launch",
+      "mainClass": "sorting.Questions.MoveZerosToEnd",
+      "projectName": "dsa_e9b46d27"
+    },
+    {
+      "type": "java",
+      "name": "InsertionSort",
+      "request": "launch",
+      "mainClass": "sorting.sortingAlgorithms.InsertionSort",
+      "projectName": "dsa_e9b46d27"
+    },
+    {
+      "type": "java",
+      "name": "SelectionSort",
+      "request": "launch",
+      "mainClass": "sorting.sortingAlgorithms.SelectionSort",
+      "projectName": "dsa_e9b46d27"
+    },
+    {
+      "type": "java",
+      "name": "BubbleSort",
+      "request": "launch",
+      "mainClass": "sorting.sortingAlgorithms.BubbleSort",
+      "projectName": "dsa_e9b46d27"
+    },
+    {
+      "type": "java",
+      "name": "BubbleSort",
+      "request": "launch",
+      "mainClass": "sorting.BubbleSort",
+      "projectName": "dsa_e9b46d27"
+    },
+    {
+      "type": "java",
+      "name": "q2",
+      "request": "launch",
+      "mainClass": "q2",
+      "projectName": "dsa_e9b46d27"
+    },
+    {
+      "type": "java",
+      "name": "DecimalToBinary",
+      "request": "launch",
+      "mainClass": "recursion.Basics.DecimalToBinary",
+      "projectName": "dsa_e9b46d27"
+    },
+    {
+      "type": "java",
+      "name": "SumOfSubsets",
+      "request": "launch",
+      "mainClass": "recursion.Strings.SumOfSubsets",
+      "projectName": "dsa_e9b46d27"
+    },
+    {
+      "type": "java",
+      "name": "ChangeArray",
+      "request": "launch",
+      "mainClass": "backtracking.ChangeArray",
+      "projectName": "dsa_e9b46d27"
+    },
+    {
+      "type": "java",
+      "name": "FourDirectionMazePath",
+      "request": "launch",
+      "mainClass": "backtracking.FourDirectionMazePath",
+      "projectName": "dsa_e9b46d27"
+    },
+    {
+      "type": "java",
+      "name": "MazePath",
+      "request": "launch",
+      "mainClass": "backtracking.MazePath",
+      "projectName": "dsa_e9b46d27"
+    },
+    {
+      "type": "java",
+      "name": "ReverseNum",
+      "request": "launch",
+      "mainClass": "recursion.Basics.ReverseNum",
+      "projectName": "dsa_e9b46d27"
+    },
+    {
+      "type": "java",
+      "name": "Multiplication",
+      "request": "launch",
+      "mainClass": "recursion.Multiplication",
+      "projectName": "dsa_e9b46d27"
+    },
+    {
+      "type": "java",
+      "name": "ArmstrongNo",
+      "request": "launch",
+      "mainClass": "recursion.Basics.ArmstrongNo",
+      "projectName": "dsa_e9b46d27"
+    },
+    {
+      "type": "java",
+      "name": "SubsequenceOfString",
+      "request": "launch",
+      "mainClass": "recursion.Strings.SubsequenceOfString",
+      "projectName": "dsa_e9b46d27"
+    },
+    {
+      "type": "java",
+      "name": "Palindrome",
+      "request": "launch",
+      "mainClass": "recursion.Strings.Palindrome",
+      "projectName": "dsa_e9b46d27"
+    },
+    {
+      "type": "java",
+      "name": "ReverseString",
+      "request": "launch",
+      "mainClass": "recursion.Strings.ReverseString",
+      "projectName": "dsa_e9b46d27"
+    },
+    {
+      "type": "java",
+      "name": "test",
+      "request": "launch",
+      "mainClass": "recursion.test",
+      "projectName": "dsa_e9b46d27"
+    },
+    {
+      "type": "java",
+      "name": "RemoveAllOccurences",
+      "request": "launch",
+      "mainClass": "recursion.Strings.RemoveAllOccurences",
+      "projectName": "dsa_e9b46d27"
+    },
+    {
+      "type": "java",
+      "name": "FirstOccurence",
+      "request": "launch",
+      "mainClass": "recursion.Arrays.FirstOccurence",
+      "projectName": "dsa_e9b46d27"
+    },
+    {
+      "type": "java",
+      "name": "LastOccurence",
+      "request": "launch",
+      "mainClass": "recursion.Arrays.LastOccurence",
+      "projectName": "dsa_e9b46d27"
+    },
+    {
+      "type": "java",
+      "name": "LinearSearch",
+      "request": "launch",
+      "mainClass": "recursion.Arrays.LinearSearch",
+      "projectName": "dsa_e9b46d27"
+    },
+    {
+      "type": "java",
+      "name": "SumOfArray",
+      "request": "launch",
+      "mainClass": "recursion.Arrays.SumOfArray",
+      "projectName": "dsa_e9b46d27"
+    },
+    {
+      "type": "java",
+      "name": "MaxInArray",
+      "request": "launch",
+      "mainClass": "recursion.Arrays.MaxInArray",
+      "projectName": "dsa_e9b46d27"
+    },
+    {
+      "type": "java",
+      "name": "ArmstrongNo",
+      "request": "launch",
+      "mainClass": "ArmstrongNo",
+      "projectName": "dsa_e9b46d27"
+    },
+    {
+      "type": "java",
+      "name": "kMultiplesOfN",
+      "request": "launch",
+      "mainClass": "kMultiplesOfN",
+      "projectName": "dsa_e9b46d27"
+    },
+    {
+      "type": "java",
+      "name": "test",
+      "request": "launch",
+      "mainClass": "test",
+      "projectName": "dsa_e9b46d27"
+    },
+    {
+      "type": "java",
+      "name": "EuclidsAlgo",
+      "request": "launch",
+      "mainClass": "recursion.EuclidsAlgo",
+      "projectName": "dsa_e9b46d27"
+    },
+    {
+      "type": "java",
+      "name": "kMultiplesOfN",
+      "request": "launch",
+      "mainClass": "recursion.Basics.kMultiplesOfN",
+      "projectName": "dsa_e9b46d27"
+    },
+    {
+      "type": "java",
+      "name": "test",
+      "request": "launch",
+      "mainClass": "recursion.Basics.test",
+      "projectName": "dsa_e9b46d27"
+    },
+    {
+      "type": "java",
+      "name": "FibonacciSeries",
+      "request": "launch",
+      "mainClass": "recursion.Basics.FibonacciSeries",
+      "projectName": "dsa_e9b46d27"
+    },
+    {
+      "type": "java",
+      "name": "revise",
+      "request": "launch",
+      "mainClass": "recursion.Basics.revise",
+      "projectName": "dsa_e9b46d27"
+    },
+    {
+      "type": "java",
+      "name": "NthFib",
+      "request": "launch",
+      "mainClass": "recursion.Basics.NthFib",
+      "projectName": "dsa_e9b46d27"
+    },
+    {
+      "type": "java",
+      "name": "oneton",
+      "request": "launch",
+      "mainClass": "recursion.Basics.oneton",
+      "projectName": "dsa_e9b46d27"
+    },
+    {
+      "type": "java",
+      "name": "Basics",
+      "request": "launch",
+      "mainClass": "queue.Basics",
+      "projectName": "dsa_e9b46d27"
+    },
+    {
+      "type": "java",
       "name": "StackExample",
       "request": "launch",
       "mainClass": "StackExample",
