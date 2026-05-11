@@ -4,16 +4,21 @@ public class CountSort {
 
     public static int[] CountSorting(int arr[]) {
 
+        // find range
         int largest = Integer.MIN_VALUE;
-        for (int i = 0; i < arr.length; i++) {
-            largest = Math.max(largest, arr[i]);
+        for (int i : arr) {
+            largest = Math.max(largest, i);
         }
-        int count[] = new int[largest+1];
+
+        // create count array and store frequency
+        int count[] = new int[largest + 1];
         for (int i = 0; i < arr.length; i++) {
             count[arr[i]]++;
         }
+
+        // update original array
         int j = 0;
-        for (int i = count.length-1; i >=0; i--) {
+        for (int i = 0; i < count.length; i++) {
             while (count[i] > 0) {
                 arr[j] = i;
                 j++;
@@ -28,7 +33,7 @@ public class CountSort {
 
         CountSorting(arr);
         for (int i = 0; i < arr.length; i++) {
-            System.out.print(arr[i]);
+            System.out.print(arr[i] + " ");
         }
     }
 }

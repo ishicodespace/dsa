@@ -39,7 +39,7 @@ public class MergeSort {
         int mid = (l + r) / 2;
         // recursion
         mergeSort(arr, l, mid);
-        mergeSort(arr, mid + 1, r);
+        mergeSort(arr, mid + 1, r); 
         // self work
         merge(arr, l, mid, r);
     }
