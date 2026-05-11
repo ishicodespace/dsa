@@ -1,6 +1,6 @@
 package searching.binarySearch;
 
-public class SearchInRoated {
+public class SearchInRotated {
     static int searchInSortedRotated(int arr[], int target, int si, int ei) {
         if (si > ei) {
             return -1;
