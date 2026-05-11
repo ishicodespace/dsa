@@ -1,19 +1,17 @@
 package backtracking;
 
-public class PermutationString {
-    public static void permutation(String str, String ans, int i) {
+public class PermutationsOfString {
+    public static void permutation(String str, String ans) {
         //base case
-        if (i == str.length()) {
+        if (str.length()==0) {
             System.out.println(ans);
             return;
         }
         // character choosen
       
         // no choice
-        permutation(str, ans, i + 1);
     }
 
     public static void main(String[] args) {
-        permutation("abc", " ", 0);
     }
 }
